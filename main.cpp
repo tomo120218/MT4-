@@ -233,7 +233,7 @@ void VectorScreenPrintf(int x, int y, const Vector3& vector, const char* label)
 }
 
 
-const char kWindowTitle[] = "LE2C_20_タニタ_カイセイ";
+const char kWindowTitle[] = "MT";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
